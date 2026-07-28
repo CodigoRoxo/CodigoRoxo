@@ -70,7 +70,7 @@ Além disso, sou **criador de conteúdo sobre programação**, ensinando **milha
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=CodigoRoxo&color=blueviolet&style=for-the-badge"/>
 
 </p>
 
