@@ -38,6 +38,6 @@ No **Código Roxo**, transformo essa bagagem técnica em conteúdo acessível, e
 </p>
 
 <p align="center">
-**"Code. Learn. Share."**
+"Code. Learn. Share."
 </p>
 
