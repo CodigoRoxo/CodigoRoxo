@@ -8,6 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Python+%7C+C%2B%2B+%7C+Node.js+%7C+Assembly;Programando+desde+sempre...;Compartilhando+conhecimento+gratuitamente!" />
 </p>
 
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=CodigoRoxo&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
 ---
 
 ## 🚀 Sobre mim
@@ -63,12 +69,6 @@ Além disso, sou **criador de conteúdo sobre programação**, ensinando **milha
 > Meu objetivo é ensinar programação, engenharia de software e tecnologia de forma simples, prática e gratuita para o maior número possível de pessoas.
 
 ---
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=CodigoRoxo&color=blueviolet&style=for-the-badge"/>
-
-</p>
 
 <p align="center">
 
