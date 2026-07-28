@@ -44,26 +44,16 @@ Além disso, sou **criador de conteúdo sobre programação**, ensinando **milha
 
 ## 🔥 GitHub Streak
 
-<p align="center">
+<p align="left">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=CodigoRoxo&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-## 🌎 Onde me encontrar
-
-* 💜 YouTube
-* 📸 Instagram
-* 🎵 TikTok
-* 💻 GitHub
-
----
 
 ## ⚡ Minha missão
 
 > Acredito que conhecimento deve ser acessível.
+>
 > Meu objetivo é ensinar programação, engenharia de software e tecnologia de forma simples, prática e gratuita para o maior número possível de pessoas.
 
 ---
