@@ -13,11 +13,8 @@
 ## 🚀 Sobre mim
 
 Sou **Engenheiro da Computação** e programo há mais de **10 anos**.
-
 Tenho paixão por desenvolvimento de software, engenharia reversa, programação de baixo nível, automação e criação de ferramentas.
-
 Além disso, sou **criador de conteúdo sobre programação**, ensinando **milhares de pessoas gratuitamente todos os dias** através da internet.
-
 > **Obs.:** Este é meu novo perfil. O anterior foi perdido após eu perder o acesso ao meu 2FA. 😅
 
 ---
@@ -63,7 +60,6 @@ Além disso, sou **criador de conteúdo sobre programação**, ensinando **milha
 ## ⚡ Minha missão
 
 > Acredito que conhecimento deve ser acessível.
->
 > Meu objetivo é ensinar programação, engenharia de software e tecnologia de forma simples, prática e gratuita para o maior número possível de pessoas.
 
 ---
