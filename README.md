@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner Código Roxo" width="100%">
+</p>
+
 # 👋 Olá, eu sou o Matheus Franco
 
 <h3 align="center">
