@@ -46,7 +46,7 @@ Além disso, sou **criador de conteúdo sobre programação**, ensinando **milha
 
 ## 🔥 GitHub Streak
 
-<p align="left">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=CodigoRoxo&theme=tokyonight&hide_border=true"/>
 
