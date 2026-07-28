@@ -1,16 +1,107 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Matheus Franco
 
-<!--
-**CodigoRoxo/CodigoRoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+💻 Engenheiro da Computação • Programador há mais de 10 anos • Criador de Conteúdo
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Python+%7C+C%2B%2B+%7C+Node.js+%7C+Assembly;Programando+desde+sempre...;Compartilhando+conhecimento+gratuitamente!" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+Sou **Engenheiro da Computação** e programo há mais de **10 anos**.
+
+Tenho paixão por desenvolvimento de software, engenharia reversa, programação de baixo nível, automação e criação de ferramentas.
+
+Além disso, sou **criador de conteúdo sobre programação**, ensinando **milhares de pessoas gratuitamente todos os dias** através da internet.
+
+> **Obs.:** Este é meu novo perfil. O anterior foi perdido após eu perder o acesso ao meu 2FA. 😅
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,nodejs,linux,git,vscode,github" />
+
+</p>
+
+### Também trabalho com
+
+* ⚙️ Assembly
+* 🧠 Reverse Engineering
+* 🔍 Memory Analysis
+* 🎮 Game Hacking (fins educacionais)
+* 🖥️ Windows Internals
+* 📦 Automação
+* 🌐 APIs
+* 🧩 Desenvolvimento Desktop
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+## 🌎 Onde me encontrar
+
+* 💜 YouTube
+* 📸 Instagram
+* 🎵 TikTok
+* 💻 GitHub
+
+*(Adicione aqui seus links quando desejar.)*
+
+---
+
+## 💜 Minha missão
+
+> Acredito que conhecimento deve ser acessível.
+>
+> Meu objetivo é ensinar programação, engenharia de software e tecnologia de forma simples, prática e gratuita para o maior número possível de pessoas.
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+**"Code. Learn. Share."**
+
+</p>
