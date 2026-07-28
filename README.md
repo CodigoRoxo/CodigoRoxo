@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner2.gif" alt="Banner Código Roxo" width="100%" autoplay="True">
-</p>
+<img width="800" height="80" alt="banner2" src="https://github.com/user-attachments/assets/34d832ec-5e0a-4cfb-ad55-4f625651585b" />
 
 # 👋 Olá, eu sou o Matheus Franco
 
