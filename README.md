@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Banner Código Roxo" width="100%" autoplay="True">
+  <img src="assets/banner2.gif" alt="Banner Código Roxo" width="100%" autoplay="True">
 </p>
 
 # 👋 Olá, eu sou o Matheus Franco
