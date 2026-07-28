@@ -31,16 +31,18 @@ Além disso, sou **criador de conteúdo sobre programação**, ensinando **milha
   <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,flask,fastapi,linux,git,github,vscode&perline=5" />
 </p>
 
-### Também trabalho com
+<h2>Também trabalho com</h2>
+<div align="center">
 
-* ⚙️ Assembly
-* 🧠 Reverse Engineering
-* 🔍 Memory Analysis
-* 🎮 Game Hacking (fins educacionais)
-* 🖥️ Windows Internals
-* 📦 Automação
-* 🌐 APIs
-* 🧩 Desenvolvimento Desktop
+⚙️ Assembly
+🧠 Reverse Engineering
+🔍 Memory Analysis
+🎮 Game Hacking (fins educacionais)
+🖥️ Windows Internals
+📦 Automação
+🌐 APIs
+🧩 Desenvolvimento Desktop
+</div>
 
 ## 🔥 GitHub Streak
 
