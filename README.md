@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&letterSpacing=&duration=2000&pause=1000&color=DD16FF&center=true&width=600&lines=Bem-vindo(a)+ao+meu+Github!;Languages%3A+Python+%7C+C%2B%2B+%7C+Assembly+%7C+JavaScript;Web+%26+APIs%3A+Node.js+%7C+Flask+%7C+FastAPI" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&letterSpacing=&duration=2000&pause=1000&color=E304FF&center=true&width=600&lines=Sou+Engenheiro+da+Computa%C3%A7%C3%A3o;Programador+h%C3%A1+%2B10+anos;Criador+de+Conte%C3%BAdo;Ensinando+programa%C3%A7%C3%A3o+para+%2B+12+mil+programadores!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ## 🚀 Sobre mim
 
 Minha jornada com código começou há mais de uma década. Hoje, como **Engenheiro de Computação**, me dedico a criar softwares, explorar engenharia reversa, programação de baixo nível e automação.
-No **Código Roxo 🚀**, transformo essa bagagem técnica em conteúdo acessível, ensinando milhares de pessoas a dominar a tecnologia e a arte da programação.
+No **Código Roxo**, transformo essa bagagem técnica em conteúdo acessível, ensinando milhares de pessoas a dominar a tecnologia e a arte da programação.
 > ⚠️ **Obs.:** Este é o meu novo perfil oficial. O anterior foi perdido após um problema de acesso ao 2FA. 😅
 ---
 
