@@ -41,35 +41,11 @@ Além disso, sou **criador de conteúdo sobre programação**, ensinando **milha
 * 🌐 APIs
 * 🧩 Desenvolvimento Desktop
 
----
-
-## 📊 Estatísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🐍 Contribuições
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -82,11 +58,9 @@ Além disso, sou **criador de conteúdo sobre programação**, ensinando **milha
 * 🎵 TikTok
 * 💻 GitHub
 
-*(Adicione aqui seus links quando desejar.)*
-
 ---
 
-## 💜 Minha missão
+## ⚡ Minha missão
 
 > Acredito que conhecimento deve ser acessível.
 >
