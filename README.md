@@ -24,7 +24,6 @@ No **Código Roxo**, transformo essa bagagem técnica em conteúdo acessível, e
 
 <h2>Também trabalho com</h2>
 <div align="center">
-
 ⚙️ Assembly
 🧠 Reverse Engineering
 🔍 Memory Analysis
@@ -38,18 +37,8 @@ No **Código Roxo**, transformo essa bagagem técnica em conteúdo acessível, e
 ## 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=CodigoRoxo&theme=tokyonight&hide_border=true"/>
-
 </p>
-
-## ⚡ Minha missão
-
-> Acredito que conhecimento deve ser acessível.
->
-> Meu objetivo é ensinar programação, engenharia de software e tecnologia de forma simples, prática e gratuita para o maior número possível de pessoas.
-
----
 
 <p align="center">
 
