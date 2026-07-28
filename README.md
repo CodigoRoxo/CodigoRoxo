@@ -3,12 +3,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&letterSpacing=&duration=2000&pause=1000&color=F9D8FF&center=true&width=600&lines=Sou+Engenheiro+da+Computa%C3%A7%C3%A3o;Programador+h%C3%A1+%2B10+anos;Criador+de+Conte%C3%BAdo;Ensinando+programa%C3%A7%C3%A3o+para+%2B+12+mil+programadores!" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=CodigoRoxo&color=blueviolet&style=for-the-badge"/>
-</p>
-
----
-
 ## 🚀 Sobre mim
 
 Minha jornada com código começou há mais de uma década. Hoje, como **Engenheiro de Computação**, me dedico a criar softwares, explorar engenharia reversa, programação de baixo nível e automação.
@@ -39,9 +33,11 @@ No **Código Roxo**, transformo essa bagagem técnica em conteúdo acessível, e
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=CodigoRoxo&theme=tokyonight&hide_border=true"/>
 </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=CodigoRoxo&color=blueviolet&style=for-the-badge"/>
+</p>
 
 <p align="center">
-
 **"Code. Learn. Share."**
-
 </p>
+
