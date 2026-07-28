@@ -15,11 +15,9 @@
 
 ## 🚀 Sobre mim
 
-Sou **Engenheiro da Computação** e programo há mais de **10 anos**.
-Tenho paixão por desenvolvimento de software, engenharia reversa, programação de baixo nível, automação e criação de ferramentas.
-Além disso, sou **criador de conteúdo sobre programação**, ensinando **milhares de pessoas gratuitamente todos os dias** através da internet.
-> **Obs.:** Este é meu novo perfil. O anterior foi perdido após eu perder o acesso ao meu 2FA. 😅
-
+Minha jornada com código começou há mais de uma década. Hoje, como **Engenheiro de Computação**, me dedico a criar softwares, explorar engenharia reversa, programação de baixo nível e automação.
+No **Código Roxo 🚀**, transformo essa bagagem técnica em conteúdo acessível, ensinando milhares de pessoas a dominar a tecnologia e a arte da programação.
+> ⚠️ **Obs.:** Este é o meu novo perfil oficial. O anterior foi perdido após um problema de acesso ao 2FA. 😅
 ---
 
 ## 🛠️ Tecnologias
