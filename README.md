@@ -1,4 +1,4 @@
-<img width="800" height="80" alt="banner2" src="https://github.com/user-attachments/assets/34d832ec-5e0a-4cfb-ad55-4f625651585b" />
+<img width="880" height="80" alt="banner3" src="https://github.com/user-attachments/assets/ed53b168-f419-4ac5-b1ff-cc213f46b604" />
 <h3 align="center">
 💻 Engenheiro da Computação • Programador há mais de 10 anos • Criador de Conteúdo
 </h3>
