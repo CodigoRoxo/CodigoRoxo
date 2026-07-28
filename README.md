@@ -1,5 +1,5 @@
 <img width="800" height="80" alt="banner2" src="https://github.com/user-attachments/assets/34d832ec-5e0a-4cfb-ad55-4f625651585b" />
-<h3 align="left">
+<h3 align="center">
 💻 Engenheiro da Computação • Programador há mais de 10 anos • Criador de Conteúdo
 </h3>
 
@@ -8,9 +8,7 @@
 </p>
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=CodigoRoxo&color=blueviolet&style=for-the-badge"/>
-
 </p>
 
 ---
