@@ -28,7 +28,7 @@ Além disso, sou **criador de conteúdo sobre programação**, ensinando **milha
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,flask,fastapi,linux,git,github,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,flask,fastapi,linux,git,github,vscode&perline=9" />
 </p>
 
 <h2>Também trabalho com</h2>
