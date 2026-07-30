@@ -29,10 +29,10 @@ No **Código Roxo**, transformo essa bagagem técnica em conteúdo acessível, e
 </div>
 
 ## 🔥 GitHub Streak
-
+<!--
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=CodigoRoxo&theme=tokyonight&hide_border=true"/>
-</p>
+</p>-->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=CodigoRoxo&color=blueviolet&style=for-the-badge"/>
 </p>
