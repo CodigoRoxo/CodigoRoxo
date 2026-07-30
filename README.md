@@ -28,7 +28,7 @@ No **Código Roxo**, transformo essa bagagem técnica em conteúdo acessível, e
 🧩 Desenvolvimento Desktop
 </div>
 
-## 🔥 GitHub Streak
+## ⚡ GitHub Stats
 <!--
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=CodigoRoxo&theme=tokyonight&hide_border=true"/>
