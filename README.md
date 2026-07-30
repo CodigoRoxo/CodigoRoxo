@@ -1,7 +1,4 @@
 <img width="880" height="80" alt="banner3" src="https://github.com/user-attachments/assets/ed53b168-f419-4ac5-b1ff-cc213f46b604" />
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&letterSpacing=&duration=2000&pause=1000&color=F9D8FF&center=true&width=600&lines=Sou+Engenheiro+da+Computa%C3%A7%C3%A3o;Programador+h%C3%A1+%2B10+anos;Criador+de+Conte%C3%BAdo;Ensinando+programa%C3%A7%C3%A3o+para+%2B+12+mil+programadores!" alt="Typing SVG" /></a>
-</p>
 
 ## 🚀 Sobre mim
 
