@@ -1,6 +1,6 @@
 <img width="880" height="80" alt="banner3" src="https://github.com/user-attachments/assets/ed53b168-f419-4ac5-b1ff-cc213f46b604" />
 
-## 🚀 Sobre mim
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32px"/> >_ About me!
 
 Minha jornada com código começou há mais de uma década. Hoje, como **Engenheiro de Computação**, me dedico a criar softwares, explorar engenharia reversa, programação de baixo nível e automação.
 No **Código Roxo**, transformo essa bagagem técnica em conteúdo acessível, ensinando milhares de pessoas a dominar a tecnologia e a arte da programação.
