@@ -4,7 +4,7 @@
 
 Eu sou o **Matheus Franco**, **Engenheiro de Computação** e programador há mais de 10 anos. Gosto de entender o que acontece *por baixo dos panos*: engenharia reversa, programação de baixo nível, memória, bots e automação.
 
-No **[Código Roxo](https://www.codigoroxo.com.br)** eu transformo esse conhecimento em conteúdo prático e acessível, sem tutorial raso. Já somos **+12 mil purplecoders** e **+500 mil visualizações** no canal. 💜
+No **[Código Roxo](https://www.codigoroxo.com.br)** eu transformo esse conhecimento em conteúdo prático e acessível, sem tutorial raso. Já somos **quase 14 mil purplecoders** e **+670 mil visualizações** no canal. 💜
 
 > ⚠️ **Obs.:** Este é o meu novo perfil oficial. O anterior foi perdido após um problema de acesso ao 2FA. 😅
 
@@ -18,6 +18,33 @@ No **[Código Roxo](https://www.codigoroxo.com.br)** eu transformo esse conhecim
 ---
 
 ## 🎬 >_ Vídeos em Destaque
+
+### 🔥 Novos
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/l31k7_VlsXA">
+        <img src="https://img.youtube.com/vi/l31k7_VlsXA/hqdefault.jpg" width="100%"/>
+      </a>
+      <br/>
+      <a href="https://youtu.be/l31k7_VlsXA"><b>Como CLONAR QUALQUER VOZ! (100% Grátis)</b></a>
+      <br/>
+      <sub>👁️ +27.8k views</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/mSsRsg7vnRY">
+        <img src="https://img.youtube.com/vi/mSsRsg7vnRY/hqdefault.jpg" width="100%"/>
+      </a>
+      <br/>
+      <a href="https://youtu.be/mSsRsg7vnRY"><b>Como CLONAR qualquer APP com IA!</b></a>
+      <br/>
+      <sub>👁️ +17.8k views</sub>
+    </td>
+  </tr>
+</table>
+
+### ⭐ Mais assistidos
 
 <table>
   <tr>
